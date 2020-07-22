@@ -1,10 +1,10 @@
 {
   "forceUpdate": {
      "android": 24,
-     "ios": 20,
+     "ios": 20
    },
    "server": {
      "restApi": "https://musicishoapp.com",
-     "downloadServer": "https://dl.musicishoapp.com",
+     "downloadServer": "https://dl.musicishoapp.com"
    }
 }
