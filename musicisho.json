@@ -4,7 +4,7 @@
      "ios": 20
    },
    "server": {
-     "restApi": "https://musicishoapp.com",
+     "restApi": "https://musicisho.com/wp-json/wp/v2/",
      "downloadServer": "https://dl.musicishoapp.com"
    }
 }
