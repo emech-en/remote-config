@@ -5,6 +5,6 @@
    },
    "server": {
      "restApi": "https://musicisho.co/wp-json/wp/v2/",
-     "downloadServer": "https://dl.musicishoapp.com"
+     "downloadServer": "https://dl.musicisho.co"
    }
 }
